@@ -14,7 +14,7 @@
 
 # webpack-serve
 
-DEPRECATED. Please use `webpack-dev-server` (he is in support and update mode again). Feel free to create a issue if some features are not implemented in `webpack-dev-server`. 
+DEPRECATED. Please use [webpack-dev-server](https://github.com/webpack/webpack-dev-server) (he is in support and update mode again). Feel free to create a issue if some features are not implemented in `webpack-dev-server`. 
 
 Why deprecated `webpack-serve` ?
 - The author stopped developing the package.
